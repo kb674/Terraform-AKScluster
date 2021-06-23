@@ -1,2 +1,2 @@
 # Terraform-AKScluster
-Configuration files to provision a AKS cluster using terraform
+Files will provision an AKS cluster in the resource group: k8group with the name: k8cluster.
